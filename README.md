@@ -1,12 +1,13 @@
 Ronnie D'Souza
 COMP 4350 Assignment
 
-Github repo
+Github repo:  
+https://github.com/RonnieDsouza/react-soflo
 
-The docker image is at:
+The docker image is at:  
 https://hub.docker.com/layers/ronnieds/soflo/latest/images/sha256-6d6407b8a2de525924925cea92b72ebd5e232c7624028266abaa578e1fead28c?context=explore
 
-Alternatively use: 
+Alternatively use:  
 docker pull ronnieds/soflo:latest
 
 My app is implemented using React.js. 
