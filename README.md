@@ -15,3 +15,11 @@ The app uses the stck exchange API to make calls to receive the information it n
 The search term recieved in the input field is used to find questions with the specified tag. 
 The results are then received and the dates are converted to human readable dates. 
 
+HOW TO RUN  
+docker pull ronnieds/soflo:latest
+docker run -p 3000:3000 c18bfb32d118
+then go to http://localhost:3000
+
+TO SEARCH  
+type in a tag eg: 'vim'
+you will find the top questions for that tag
