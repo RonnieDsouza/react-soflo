@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  align-self: "stretch"
 }
 
 .App-logo {
@@ -27,6 +28,33 @@
 .App-link {
   color: #61dafb;
 }
+
+.App-title {
+  background-color: #000;
+  display: block;
+  color: #fff;
+  font-family: 'Segoe UI';
+  padding-left: 12;
+}
+
+.App-searchbar {
+  display: block;
+  width: 99.4%;
+  color: #fff;
+  font-family: 'Segoe UI';
+  padding-left: 12;
+
+}
+
+
+.App-submit {
+  display: block;
+  color: #fff;
+  font-family: 'Segoe UI';
+  font-size: 24;
+
+}
+
 
 @keyframes App-logo-spin {
   from {
